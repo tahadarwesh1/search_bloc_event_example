@@ -5,7 +5,6 @@ search by using bloc event to delay search request while typing with bloc and rx
 
 ## Getting Started
 
-
 # Packages used:
    1-  build_runner: ^2.4.6
    2-  freezed: ^2.4.2
