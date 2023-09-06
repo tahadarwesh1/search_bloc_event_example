@@ -1,7 +1,11 @@
 # search using bloc events example
 
 search by using bloc event to delay search request while typing with bloc and rxdart
+
+
 ## Getting Started
+
+
 # Packages used:
    1-  build_runner: ^2.4.6
    2-  freezed: ^2.4.2
@@ -11,4 +15,3 @@ search by using bloc event to delay search request while typing with bloc and rx
    6-  flutter_bloc: ^8.1.3
 
    
-# search using bloc events example
