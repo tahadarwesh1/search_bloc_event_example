@@ -1,16 +1,14 @@
-# search_bloc_event_example
+# search using bloc events example
 
 search by using bloc event to delay search request while typing with bloc and rxdart
 ## Getting Started
+# Packages used:
+   1-  build_runner: ^2.4.6
+   2-  freezed: ^2.4.2
+   3-  rxdart: ^0.27.7
+   4-  freezed_annotation: ^2.4.1
+   5-  bloc: ^8.1.2
+   6-  flutter_bloc: ^8.1.3
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# search_bloc_event_example
+   
+# search using bloc events example
