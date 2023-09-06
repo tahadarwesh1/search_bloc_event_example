@@ -1,7 +1,6 @@
-# test_flutter_project
+# search_bloc_event_example
 
-A new Flutter project.
-
+search by using bloc event to delay search request while typing with bloc and rxdart
 ## Getting Started
 
 This project is a starting point for a Flutter application.
@@ -14,6 +13,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-# search_bloc_event_example
-# search_bloc_event_example
 # search_bloc_event_example
